@@ -1,6 +1,6 @@
 var css= ".container{width:200px;height:75px;position:fixed;top:20px;left:50%;transform:translateX(-50%);background:red;}"
 
-var head = document.head || document.getElementsByTagName('head')[0],
+var head = document.head || document.getElementsByTagName('head')[0];
 
 var style = document.createElement('style');
 
